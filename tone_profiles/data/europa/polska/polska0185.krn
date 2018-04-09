@@ -1,0 +1,83 @@
+!!!OTL: Na Podolu bialy kamien
+!!!id: K0008w
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M3/4	*M3/4
+{8b	{Na
+8cc	Po-
+4dd	-do-
+(8dd	-lu
+8cc#)	|
+=2yy	=2yy
+8g	bia-
+=3	=3
+4dd	-ly
+8g	|
+(8cc	|
+8b	ka-
+8a)	|
+=4yy	=4yy
+8g	-mien
+8g	|
+(8g	|
+8f#)	|
+8d	|
+8g}	|}
+=5yy	=5yy
+{8g	{na
+8a	Po-
+4b	-do-
+4cc	-lu
+=6	=6
+4dd	bia-
+8g	-ly
+(8cc	|
+8b)	ka-
+8a	-mien
+=7yy	=7yy
+8g	|
+4g}	|}
+{8b	{Po-
+8cc	-do-
+4dd	-lan-
+4ee	-ka
+=8	=8
+4dd	sie-
+8g	-dzi
+(8cc	|
+8b	|
+8a)	na
+=9yy	=9yy
+8g	|
+8g	nim
+(8g	|
+8f#)	|
+8d	|
+8g}	|}
+=10yy	=10yy
+{8g	{Po-
+8a	-do-
+4b	-lan-
+4cc	-ka
+=11	=11
+4dd	sie-
+8g	-dzi
+(8cc	|
+8b)	na
+8a	nim.
+=12yy	=12yy
+8g	|
+4g}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Na Podolu bialy kamien
+!!!reg: od Dobrzynia n. Drweca (Dzialyn)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 128
+!!!key: K0008w 08  G 3/4 
+!!!fkt: dumy i piesni
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

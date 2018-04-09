@@ -1,0 +1,55 @@
+!!!OTL: Stala nam sie nowina, pani pana zabila
+!!!id: K0003b
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*G:	*G:
+*M2/4	*M2/4
+{8g	{Sta-
+8d	-la
+8g	nam
+8a	sie
+=2	=2
+4b	no-
+4a	-wi-
+=3	=3
+2g}	-na}
+=4yy	=4yy
+{8dd	{sta-
+8cc	-la
+8b	nam
+8cc	sie
+=5	=5
+4dd	no-
+8ee	-wi-
+8dd	-na
+=6	=6
+8cc	pa-
+8b	-ni
+8a	pa-
+8b	-na
+=7	=7
+4cc	za-
+8dd	-bi-
+8cc}	-la}
+=8yy	=8yy
+{8b	{pa-
+8a	-ni
+8g	pa-
+8d	-na
+=9	=9
+4b	za-
+4a	-bi-
+=10	=10
+2g}	-la.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 2/4 
+!!!cut: Stala nam sie nowina, pani pana zabila
+!!!reg: od Sierpca
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 14-15
+!!!key: K0003b 08  G 2/4 
+!!!fkt: dumy i piesni
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

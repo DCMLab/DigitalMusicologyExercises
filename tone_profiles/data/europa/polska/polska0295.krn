@@ -1,0 +1,52 @@
+!!!OTL: U mej matki rodzonej stoi jawor zielony
+!!!id: K0015m
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*a:	*a:
+*M2/4	*M2/4
+{8a	{U
+8a	mej
+8ff	ma-
+8ee	-tki
+=2	=2
+8dd	ro-
+8dd	-dzo-
+4cc}	-nej}
+=3yy	=3yy
+{8dd	{sto-
+8dd	-i
+8dd	ja-
+8ee	-wor
+=4	=4
+8a	zie-
+8a	-lo-
+4g}	-ny}
+=5yy	=5yy
+{4cc	{hej
+2ee	hej
+=6	=6
+*M3/4	*M3/4
+4dd	sto-
+2a	-i
+=7	=7
+4cc	ja-
+2ee	-wor
+=8	=8
+4dd	zie-
+4.dd	-lo
+8a	-
+=9	=9
+4a}	-ny.}
+4r	%
+4r	%
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meters: 2/4 3/4 
+!!!cut: U mej matki rodzonej stoi jawor zielony
+!!!reg: od Kazanowa
+!!!key: K0015m 08  A 2/4 3/4 
+!!!fkt: dumy i piesni
+!!!bem: zmiana metrum
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

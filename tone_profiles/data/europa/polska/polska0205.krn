@@ -1,0 +1,75 @@
+!!!OTL: Lecie zimie zawsze o tej porze
+!!!id: K0009o
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*G:	*G:
+*M3/4	*M3/4
+{8dd	{Le-
+8cc	-cie
+4b	zi-
+4cc	-mie
+=2	=2
+8dd	le-
+8cc	-cie
+4b	zi-
+4cc	-mie
+=3	=3
+8dd	za-
+8dd	-wsze
+4gg	o
+4ee	t&eacute;j
+=4	=4
+4dd	po-
+2b}	-rze}
+=5yy	=5yy
+{8b	{wy-
+8b	-cho-
+4a	-wa-
+4d	-lam
+=6	=6
+8g	go-
+8b	-la-
+4dd	-be-
+4gg	-czki
+=7	=7
+8ee	w.tej
+8ee	cie-
+4cc	-mnej
+4a	ko-
+=8	=8
+4cc	-mo-
+2b}	-rze}
+=9yy	=9yy
+{8b	{wy-
+8b	-cho-
+4a	-wa-
+4d	-lam
+=10	=10
+8g	go-
+8b	-la-
+4dd	-be-
+(8gg	-czki
+8ee)	|
+=11yy	=11yy
+8g	w.tej
+=12	=12
+8ee	cie-
+8dd	-mnej
+4cc	ko-
+4a	-mo-
+=13	=13
+4a	-rze.
+2g}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Lecie zimie zawsze o tej porze
+!!!reg: od Zychlina (Chocholow, Tretki, Zarembow)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 141-142
+!!!key: K0009o 08  G 3/4 
+!!!fkt: dumy i piesni
+!! KOLBERG
+!!!RNB: symbol: &eacute;= e acute  (UTF-8: é)
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

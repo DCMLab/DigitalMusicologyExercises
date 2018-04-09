@@ -1,0 +1,49 @@
+!!!OTL: Dobry groch dobry groch dobre straczki na nim
+!!!id: K0227t
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+{2dd
+4dd
+=2
+8dd
+8ff#
+4ee
+4dd
+=3
+8cc
+8b
+4a
+4cc
+=4
+4ee
+2g}
+=5yy
+{2dd
+4dd
+=6
+8dd
+8ff#
+4ee
+4dd
+=7
+8cc
+8b
+4a
+4a
+=8
+4d
+2g}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Dobry groch dobry groch dobre straczki na nim
+!!!reg: od Warszawy (Wilanow)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 378
+!!!key: K0227t 08  G 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

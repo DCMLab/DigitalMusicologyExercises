@@ -1,0 +1,53 @@
+!!!OTL: Hej w Dunowie w Dunowie zjezdzaja sie panowie
+!!!id: K0020c
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M4/4	*M4/4
+{4g	{Hej
+(8b	w.Du
+8g)	-
+4dd	-no-
+4b	-wie
+=2	=2
+8a	w.Du-
+8a	-no-
+2.g}	-wie}
+=3yy	=3yy
+{8b	{hej
+8cc	w.Du-
+8dd	-no-
+8dd	-wie
+8dd	w.Du-
+(16ee	-no
+16ff#)	-
+4gg	-wie
+=4	=4
+8b	zje-
+8dd	-zdza-
+8dd	-ja
+8b	sie
+8dd	pa-
+8cc	-no-
+(8b	-wie
+8a)}	|}
+=5yy	=5yy
+{4g	{zje-
+4ee	-zdza-
+4dd	-ja
+4g	sie
+=6	=6
+8a	pa-
+8a	-no-
+2.g}	-wie.}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 4/4 
+!!!cut: Hej w Dunowie w Dunowie zjezdzaja sie panowie
+!!!reg: od Ostrowia i Ostroleki (Wysoce, Starawies Jelonki)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 219
+!!!key: K0020c 16  G 4/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

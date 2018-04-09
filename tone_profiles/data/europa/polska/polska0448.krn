@@ -1,0 +1,58 @@
+!!!OTL: Jesli bedziesz slubowala
+!!!id: K0041a
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*a:	*a:
+*M3/4	*M3/4
+{8cc	{Je-
+8ee	-sli
+4ee	be-
+4ee	-dziesz
+=2	=2
+8dd	slu-
+8ff	-bo-
+(8ee	-wa
+8dd)	-
+(8cc	-la
+8b)}	|}
+=3yy	=3yy
+{8cc	{z.te-
+8ee	-go
+4ee	mo-
+4ee	-rza
+=4	=4
+8dd	be-
+8ff	-dziesz
+8ee	wo-
+8dd	-de
+8cc	bra-
+8b}	-la}
+=5yy	=5yy
+{8cc	{O-
+8cc	-ty-
+4b	-lia
+4g#	mo-
+=6	=6
+4.a	-ja
+8cc	da
+8dd	mo-
+8b}	-ja}
+=7yy	=7yy
+{8cc	{O-
+8cc	-ty-
+4b	-lia
+4g#	mo-
+=8	=8
+2.a}	-ja.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Jesli bedziesz slubowala
+!!!reg: od Gostynina i Kowala
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 295
+!!!key: K0041a 08  A 3/4 
+!!!fkt: dumy i piesni
+!!!bem: Piesn wpleciona w opowiesc typu "Piekna i bestia"
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

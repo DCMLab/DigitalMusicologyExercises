@@ -1,0 +1,66 @@
+!!!OTL: Wyjechal pan z chartami na pole
+!!!id: K0007i
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*G:	*G:
+*M3/4	*M3/4
+{8g	{Wy-
+8g	-je-
+4.dd	-chal
+8cc#	pan
+=2	=2
+8dd	z.char-
+8ee	-ta-
+8ff	-mi
+8ee	na
+8dd	po-
+8ee}	-le}
+=3yy	=3yy
+{8a	{i
+8a	zo-
+4cc	-sta-
+(8cc	-wil
+8a)	|
+=4yy	=4yy
+8g	przy
+=5	=5
+8cc	dwo-
+8ee	-rze
+8dd	pa-
+8cc	-cho-
+8b	-le
+8a}	|}
+=6yy	=6yy
+{8g	{by
+8g	mu
+4dd	dwo-
+4dd	-ru
+=7	=7
+8cc	pil-
+8ee	-no-
+4.dd	-wac
+8ee}	|}
+=8yy	=8yy
+{8a	{by
+8a	mu
+4cc	dwo-
+(8dd	-ru
+8b)	|
+=9yy	=9yy
+8g	pil-
+=10	=10
+8a	-no-
+8b	-wac.
+2g}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Wyjechal pan z chartami na pole
+!!!reg: od Stawiszyna (Zbiersk)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 92-94
+!!!key: K0007i 08  G 3/4 
+!!!fkt: dumy i piesni
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

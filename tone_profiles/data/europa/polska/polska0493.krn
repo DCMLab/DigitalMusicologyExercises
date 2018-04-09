@@ -1,0 +1,64 @@
+!!!OTL: A moja wojtowa a dajciez mi syna
+!!!id: K0037t
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M3/4	*M3/4
+{2b	{A
+4cc	mo-
+=2	=2
+8g	-ja
+(8dd	|
+8cc#)	woj-
+8dd	-to-
+8g	-wa
+4ee	a
+4dd	daj
+=3	=3
+4b	-
+(8g	-ciez
+8b)	|
+(8dd	mi
+8cc)	|
+=4yy	=4yy
+8g	sy
+=5	=5
+(8a	-
+8f#)	-na
+(8d	|
+8f#)	|
+4g}	|}
+=6yy	=6yy
+{2b	{be-
+4cc	-de
+=7	=7
+8a	wam
+8f#	za
+4d	sy-
+4dd	-na
+=8	=8
+4b	dwie
+(8g	nie
+8b)	-
+(8dd	-dzie
+8cc)	-
+=9yy	=9yy
+8g	-li
+=10	=10
+(8a	|
+8f#)	ze
+(8d	-
+8f#)	-na.
+4g}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: A moja wojtowa a dajciez mi syna
+!!!reg: od Pragi (Tarchomin)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol.1, p. 320
+!!!key: K0037t 08  G 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

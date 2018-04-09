@@ -1,0 +1,60 @@
+!!!OTL: U naszego pana trzy corki we dworze
+!!!id: K0028b
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*a:	*a:
+*M3/4	*M3/4
+{8cc	{U
+8dd	na-
+4ee	-sze-
+4ee	-go
+=2	=2
+4dd	pa-
+2cc	-na
+=3	=3
+2ee	trzy
+4ff	cor-
+=4	=4
+8dd	-ki
+8cc	we
+4.b	dwo-
+8e	-rze
+=5	=5
+2ee	trzy
+4ff	cor-
+=6	=6
+8dd	-ki
+8cc	we
+4.b	dwo-
+8e}	-rze}
+=7yy	=7yy
+{2g#	{a
+4g#	dla
+=8	=8
+8b	kaz-
+8b	-dej
+4dd	cor-
+(8ee	-ki
+8dd)	|
+=9yy	=9yy
+8a	wor
+=10	=10
+2cc	zlo-
+4ee	-ta
+=11	=11
+8dd	w.ko-
+8cc	-mo
+(8b	-
+8cc)	-rze.
+4a}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: U naszego pana trzy corki we dworze
+!!!reg: od Miechowa
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 255
+!!!key: K0028b 08  A 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

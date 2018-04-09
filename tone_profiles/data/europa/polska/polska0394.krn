@@ -1,0 +1,68 @@
+!!!OTL: Kolo dworu topola stojala
+!!!id: K0030
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*e:	*e:
+*M3/4	*M3/4
+{8e	{Ko-
+8g	-lo
+4.b	dwo-
+8g	-ru
+=2	=2
+8cc	to-
+8b	-po-
+8a	-la
+8g	sto-
+8b	-ja-
+8g}	-la}
+=3yy	=3yy
+{8a	{a
+8cc	na
+4.ee	niej
+8cc	|
+=4	=4
+8ee	zu-
+8dd	-zu-
+8cc	-la
+8ee	ko-
+8gg	-wa-
+8ee}	-la}
+=5yy	=5yy
+{8dd	{a
+8ff#	pod
+4ee	nia
+(8cc	Ka
+8a)	-
+=6yy	=6yy
+16e	-sia
+=7	=7
+16e	|
+(8g	pla-
+8e)	-ka-
+8g	-la
+16e	|
+4.b	|
+8g}	|}
+{16e	{pod
+(8cc	|
+8b)	nia
+8cc	Ka-
+16e	-sia
+4dd	pla-
+4b	-ka
+=8	=8
+8g	-
+(16f#	-la.
+16g)	|
+2e}	|}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 3/4 
+!!!cut: Kolo dworu topola stojala
+!!!reg: od Stawisk
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 256-257
+!!!key: K0030  16  E 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

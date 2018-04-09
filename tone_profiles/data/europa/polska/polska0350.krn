@@ -1,0 +1,44 @@
+!!!OTL: Gnala pastereczka dolina
+!!!id: K0021
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*a:	*a:
+*M3/4	*M3/4
+{8a	{Gna-
+8g#	-la
+8a	pa-
+8g#	-ste-
+8a	-recz-
+8cc	-ka
+=2	=2
+4b	do-
+4g#	-li-
+4e	-na
+=3	=3
+4b	do-
+4ee	-li-
+4dd	-na
+=4	=4
+8cc	hej
+8b	do-
+4a	-li-
+4g#	-na
+=5	=5
+4a	do-
+4dd	-li-
+4cc	-na
+=6	=6
+4b	do-
+4g#	-li-
+4e}	-na.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Gnala pastereczka dolina
+!!!reg: od Klobucka (Truskolasy, Panki)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 224
+!!!key: K0021  08  A 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

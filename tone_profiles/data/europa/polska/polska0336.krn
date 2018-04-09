@@ -1,0 +1,44 @@
+!!!OTL: Czego kalinko w dolku stoisz
+!!!id: K0018m
+**kern	**text
+*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]
+*g:	*g:
+*M3/4	*M3/4
+{4b-	{Cze-
+4dd	-go
+4dd	ka-
+=2	=2
+4ee-	-lin-
+2cc	-ko
+=3	=3
+4dd	w.dol-
+2b-	-ku
+=4	=4
+(8dd	sto
+8cc)	-
+2cc}	-isz}
+=5yy	=5yy
+{4b-	{czy
+4dd	sie
+4dd	na
+=6	=6
+4cc	go-
+2g	-rze
+=7	=7
+4b-	su-
+2d	-szy
+=8	=8
+(8f#	bo
+8g)	-
+2g}	-isz.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Czego kalinko w dolku stoisz
+!!!reg: od Torunia (Lazyn, Lubicz)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 214
+!!!key: K0018m 08  G 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

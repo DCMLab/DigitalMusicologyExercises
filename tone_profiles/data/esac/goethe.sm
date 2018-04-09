@@ -1,0 +1,110 @@
+F[ERK1
+CUT[WIE KOMMTS DASS DU SO TRAURIG BIST]
+REG[Europa, Mitteleuropa, Schweiz]
+KEY[E0531  16  F 2/4]
+MEL[13  5_.34_2_  32343_
+    13  5_.34_2_  3__0_
+    3_  3_.22_4_  4_.33_
+    5_  +15312432  1__0_ //] >>
+FCT[Liebes - Lied]
+
+F[ERK1
+CUT[WIE KOMMTS DASS DU SO TRAURIG BIST]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen]
+KEY[E0531A 08  E 4/4]
+MEL[13  5_.34_2_  32343_
+    13  5_.34_2_  3__0_
+    13  5_.34_2_  32343_
+    13  5_.34_2_  3__0_
+    5+1  7_.44_6_  54345_
+    6_  5_.31_2_  3__
+    6__  5_.13_2_  1__0_
+    5+1  7_.44_6_  54345_
+    6_  5_.31_2_  3__
+    6__  5_.13_2_  1__0_ //] >>
+FCT[Liebes - Lied]
+
+ZUCCAL
+CUT[WIE KOMMTS DASS DU SO TRAURIG BIST]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+KEY[Z0226  08  C 6/8]
+MEL[-5  1_11_1  -7_-6-5_
+    -7  1_13b_1  -5_.^_
+    -5  2_22_2  5_55_
+    4  3b_21_-7  1_.^_
+    5  3b_3b3b_3b  2_22_
+    2  3b_25_3b  2_.^_
+    2  4_44_4  3b_3b3b_
+    6b  5_43b_2  3b_.^_ //] >>
+FCT[Jaeger - Lied, Liebes - Lied]
+
+BOEHME
+CUT[DAS WASSER RAUSCHT DAS WASSER SCHWOLL]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0112  08  F 6/8]
+MEL[-5  -5_-51_-5  -5_-52_
+    -5  3_14_2  1_.-7_
+    2  2_24#_2  5_22_
+    3  2_56_4#  5_.0_
+    2  2_34_1  1_23_
+    5  5_14_3  2_.0_
+    3  4_56_5  6_7+1_
+    6  5_12_-7  1_.0_ //] >>
+FCT[Ballade, Romanze]
+
+BOEHME
+CUT[ICH BIN DER WOHLBEKANNTE SAENGER]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0686  16  A 3/4]
+MEL[-5_  -5_.11_1_1_1_  -7_2_-5__0_
+    -5_  -5_.22_2_2_2_  1_3_-5__0_
+    -5_  1_.23_2_1_-7_  -6___0_
+    -6_  -6_.-5-5_-5_-6_-7_  1__0__.
+    1_  -7_-5_2_-5_4_-7_  2_1_1__0_
+    1_  -7_2_4_2_-7_-5_  2_.11__0_
+    -5_  1_.23_2_1_-7_  -6___0_
+    -6_  -6_.-5-5_-5_-6_-7_  1___
+    3_1_  -5_.-5-5_-5_-6_-7_  1___
+    3_1_  4_.-5-5_-5_-6_-7_  1___0_ //] >>
+FCT[Scherz - Lied]
+
+BOEHME
+CUT[IN ALLEN GUTEN STUNDEN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0324  08 Eb 4/4]
+MEL[-5_  1_3_5_5_  5__3_
+    5_  +1_5_3_1_  5__0_
+    -5_  1_3_5_5_  5__3_
+    5_  +1_5_3_1_  5__0_
+    5_  5_5_6_3_  5__4_
+    2_  3_5_+1_64#  5__0_
+    7_  3_1_+1_+1_  +1__6_
+    5_  5_31-5_-6-7  1__0_
+    5_  5_5_6_3_  5__4_
+    2_  3_5_+1_64#  5__0_
+    7_  3_1_+1_+1_  +1__6_
+    5_  5_31-5_-6-7  1__0_ //] >>
+FCT[Trink -, Geselligkeits - Lied, Freundschaft]
+
+BOEHME
+CUT[KENNST DU DAS LAND WO DIE ZITRONEN BLUEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0259A 16 Eb 4/4]
+MEL[3_3_4_  5__.5_+1_.76_5_  5__4__0_
+    7_7_+1_  +2__.7_5_6_2_4_  4__3__0_
+    +1_+1_7_  6__.6_6_5#_6_7_  6__5__0_
+    5_7_5_  +1__.6_4#_2_3_4_  5___0_
+    4_4_5_  3___0__1__  6___0__4__  7___0_
+    5_6_7_  +1___+1_+1_7_6_  6__5___-7__  1___0_ //] >>
+FCT[Stimmungs - Lied, Sehnsucht]
+
+BOEHME
+CUT[WER REITET SO SPAET DURCH NACHT UND WIND]
+REG[Europa, Mitteleuropa, Deutschland]
+KEY[B0113A 08  G 3/8]
+MEL[-5  -5-5-5  1_1  2_2  3b_
+    2  3b_3b  222  1_1  5_
+    5  5_5  444  3b_3b  2_
+    2  2_2  3b3b3b  1_2  1_ //] >>
+FCT[Ballade, Romanze]
+

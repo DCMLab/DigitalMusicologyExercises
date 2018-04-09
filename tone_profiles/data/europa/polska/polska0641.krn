@@ -1,0 +1,98 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0181t
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+{4.cc
+8dd
+8ee
+8ff
+=2
+4.gg
+8aa
+8gg
+8ff#
+=3
+4.gg
+8aa
+8gg
+8ff#
+=4
+8gg
+8gg
+4ee
+4gg}
+=5yy
+{4ccc
+4ff
+4aa}
+=6yy
+{8gg
+8ee
+4ff
+8dd
+8b
+=7
+8g
+8dd
+4ee
+4cc
+=8
+8ee
+8gg
+4ff
+8dd
+8b
+=9
+8g
+8dd
+4ee
+4gg
+=10
+8ee
+8gg
+4ff
+8dd
+8b
+=11
+8g
+8dd
+4ee
+4cc}
+=12yy
+{8b
+8dd
+8ee
+8dd
+8cc
+8b
+=13
+8a
+8cc
+4ee
+4dd
+=14
+8b
+8dd
+8ee
+8dd
+8cc
+8b
+=15
+8a
+8cc
+4a
+4g}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: od Warszawy (Sluzew)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 365
+!!!key: K0181t 08  C 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

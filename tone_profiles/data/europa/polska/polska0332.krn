@@ -1,0 +1,42 @@
+!!!OTL: Czego w dole kalinko stoisz
+!!!id: K0018h
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/4	*M3/4
+{4ee	{Cze-
+2gg	-go
+=2	=2
+4cc	w.do-
+2ee	-le
+=3	=3
+4dd	ka-
+4.ff	-lin-
+8ee	-ko
+=4	=4
+4ee	sto-
+2gg}	-isz}
+=5yy	=5yy
+{4gg	{czy
+2gg	ty
+=6	=6
+4cc	sie
+2ee	su-
+=7	=7
+4dd	-szy
+4.ff	let-
+8dd	-niej
+=8	=8
+4dd	bo-
+2cc}	-isz.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Czego w dole kalinko stoisz
+!!!reg: od Minska (Wiazowna)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 212
+!!!key: K0018h 08  C 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

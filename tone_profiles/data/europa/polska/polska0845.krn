@@ -1,0 +1,57 @@
+!!!OTL: Sama jadla sama pila
+!!!id: K0387T
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+{8dd
+8ff
+4gg
+4dd
+=2
+8cc
+8ee
+4gg
+4ff
+=3
+8dd
+8ff
+4gg
+4dd
+=4
+8cc
+8a
+4g
+4g}
+=5yy
+{8g
+8b
+4cc
+4dd
+=6
+8dd
+8b
+4g
+4cc
+=7
+8g
+8b
+4cc
+4dd
+=8
+8dd
+8b
+4a
+4g}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Sama jadla sama pila
+!!!reg: od Grodziska (Kozery, Kozerki)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 424
+!!!key: K0387T 08  C 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

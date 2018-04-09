@@ -1,0 +1,59 @@
+!!!OTL: Czego kalinko w dolku stoisz
+!!!id: K0018f
+**kern	**text
+*clefG2	*clefG2
+*k[b-]	*k[b-]
+*F:	*F:
+*M3/4	*M3/4
+{4a	{Cze-
+4cc	-go
+4cc	ka-
+=2	=2
+4dd	-lin-
+2cc	-ko
+=3	=3
+(8cc	w.dol
+8b-)	-
+2g	-ku
+=4	=4
+(8a	sto-
+8b-)	-isz
+2cc}	|}
+=5yy	=5yy
+{4f	{czy
+4a	sie
+4a	ty
+=6	=6
+4b-	let-
+2g	-niej
+=7	=7
+4a	su-
+2f	-szy
+=8	=8
+(8c	bo
+8cc)	-
+2cc}	-isz}
+=9yy	=9yy
+{4f	{czy
+4a	sie
+4a	ty
+=10	=10
+4b-	let-
+2g	-niej
+=11	=11
+4a	su-
+2f	-szy
+=12	=12
+(8c	bo
+8e)	-
+2f}	-isz.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Czego kalinko w dolku stoisz
+!!!reg: od Sierpca, Biezunia
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 211-212
+!!!key: K0018f 08  F 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

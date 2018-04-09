@@ -1,0 +1,62 @@
+!!!OTL: Jesli bedziesz wode brala pamietaj nie klocic
+!!!id: K0071t
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M3/4	*M3/4
+{8dd	{Je-
+8dd	-sli
+4dd	be-
+4dd	-dziesz
+=2	=2
+8ee	wo-
+8dd	-de
+4b	bra-
+(8a	-la
+8g)	|
+=3yy	=3yy
+8g	pa-
+=4	=4
+8f#	-mie-
+8a	-taj
+4cc	nie
+4ee	klo
+=5	=5
+(8ee	-
+8dd)	-cic
+2dd}	|}
+=6yy	=6yy
+{8dd	{je-
+8dd	-sli
+4dd	be-
+4dd	-dziesz
+=7	=7
+8ee	mnie
+8dd	ko-
+(8cc	-cha
+8b)	-
+(8a	-la
+8g)	|
+=8yy	=8yy
+8g	pa-
+=9	=9
+8d	-mie-
+8f#	-taj
+4.a	nie
+8f#	smu-
+=10	=10
+(8a	-cic.
+8g)	|
+2g}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Jesli bedziesz wode brala pamietaj nie klocic
+!!!reg: od Warszawy (Babice, Gorce)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol.1, p. 331
+!!!key: K0071t 08  G 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

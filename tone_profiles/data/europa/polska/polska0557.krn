@@ -1,0 +1,113 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0096t
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+{(8cc
+8gg)
+4gg
+(8aa
+8gg)
+=2yy
+16g
+=3
+(8gg
+8gg)
+4ff#
+4ff#
+=4
+(8ee
+8dd#)
+2ee
+=5
+(8gg
+8gg)
+4ff#
+4dd}
+=6yy
+{(16dd
+8gg)
+16r
+4.dd
+8b
+=7
+(8g
+8b)
+4dd
+16g
+(8ff#
+8ee
+8dd)
+16g
+16g
+=8
+4cc
+4a
+4a
+=9
+(8a
+8cc)
+4b
+4g}
+=10yy
+{(8g
+8b)
+4.dd
+8b
+=11
+(8dd
+8b)
+4dd
+16g
+(8ff#
+8ee
+8dd)
+16g
+16g
+=12
+4cc
+4a
+4a
+=13
+(8a
+8gg)
+4.ff#
+8dd}
+=14yy
+{(8g
+8b)
+4.dd
+8b
+=15
+(8dd
+8b)
+4dd
+16g
+(8ff#
+8ee
+8dd)
+16g
+16g
+=16
+4cc
+4a
+4a
+=17
+(8a
+8cc)
+4b
+4g}
+==
+*-
+!!!minrhy: 16
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: od Warszawy (Oltarzew)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol.1, p. 339
+!!!key: K0096t 16  G 3/4 
+!!!fkt: taneczna
+!!!bem: U Kolberga caly zapis w akordach
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

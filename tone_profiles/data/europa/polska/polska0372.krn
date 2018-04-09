@@ -1,0 +1,51 @@
+!!!OTL: A w Krakowie na ulicy pija piwko rzemieslnicy
+!!!id: K0025a
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M2/4	*M2/4
+{8g	{A
+8g	w
+8a	Kra-
+8b	-ko-
+=2	=2
+8cc	-wie
+8dd	na
+8b	u-
+8a	-li-
+=3	=3
+4g	-cy
+8a	tra
+8b	ra
+=4	=4
+4cc	ra
+4ee}	ra}
+=5yy	=5yy
+{8g	{pi-
+8g	-ja
+8a	pi-
+8b	-wko
+=6	=6
+8cc	rze-
+8dd	-miesl-
+8b	-ni-
+8a	-cy
+=7	=7
+4g	tra
+8a	ra
+8b	ra
+=8	=8
+4cc}	ra.}
+4r	%
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 2/4 
+!!!cut: A w Krakowie na ulicy pija piwko rzemieslnicy
+!!!reg: od Lowicza (Zlakow koscielny i borowy)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 241
+!!!key: K0025a 08  C 2/4 
+!!!fkt: dumy i piesni
+!!!RWG: Lyric placement mismatch in phrase (too many syllables) 1 [K0025a]
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

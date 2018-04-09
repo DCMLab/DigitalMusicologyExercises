@@ -1,0 +1,79 @@
+!!!OTL: Jas konie napajal
+!!!id: K0005b
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*a:	*a:
+*M2/4	*M2/4
+{8a	{Jas
+8b	ko-
+8cc	-nie
+8dd	na-
+=2	=2
+8ee	-pa-
+4aa	-jal
+8dd	|
+=3	=3
+8b	Ka-
+8dd	-sia
+8ee	chu-
+(16cc	-sty
+16b)	|
+=4yy	=4yy
+16a	pra-
+=5	=5
+8a	-la
+4g#	|
+8e}	|}
+=6yy	=6yy
+{8a	{Ja-
+8g#	-sio
+8a	ja
+8b	na-
+=7	=7
+8cc	-ma-
+4a	-wial
+8b	|
+=8	=8
+8e	by
+8g#	z.nim
+8a	we-
+(16cc	-dro-
+16b)	|
+=9yy	=9yy
+16a	-wa-
+=10	=10
+4.a	-la
+8a}	|}
+=11yy	=11yy
+{8a	{Ja-
+8g#	-sio
+8a	ja
+8cc	na-
+=12	=12
+8ee	-ma-
+4a	-wial
+8b	|
+=13	=13
+8e	by
+8g#	z.nim
+8a	we-
+(16cc	-dro-
+16b)	|
+=14yy	=14yy
+16a	-wa-
+=15	=15
+4.a	-la.
+8a}	|}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 2/4 
+!!!cut: Jas konie napajal
+!!!reg: od Lowicza (Zlakow koscielny)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 51
+!!!key: K0005b 16  A 2/4 
+!!!fkt: dumy i piesni
+!!!bem: u Kolberga wariant 5.bb.
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

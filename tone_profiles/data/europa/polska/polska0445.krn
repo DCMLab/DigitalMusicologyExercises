@@ -1,0 +1,65 @@
+!!!OTL: Graj pastuszku graj Bog ci pomagaj
+!!!id: K0040a
+**kern	**text
+*clefG2	*clefG2
+*k[b-]	*k[b-]
+*F:	*F:
+*M2/4	*M2/4
+{8ff	{Graj
+8ff	pa-
+8ee	-stusz-
+8dd	-ku
+=2	=2
+2cc}	graj}
+=3yy	=3yy
+{8a	{Bog
+8b-	ci
+8cc	po-
+8dd	-ma-
+=4	=4
+2cc}	-gaj}
+=5yy	=5yy
+{8a	{star-
+8a	-sza
+8cc	sio-
+8cc	-stra
+=6	=6
+8cc	mnie
+8ff	za-
+8a	-bi-
+8cc}	-la}
+=7yy	=7yy
+{8b-	{mlod-
+8b-	-sza
+8b-	sio-
+8b-	-stra
+=8	=8
+8b-	mnie
+8dd	bro-
+8g	-ni-
+8b-}	-la}
+=9yy	=9yy
+{8a	{graj
+8b-	pa-
+8cc	-stusz-
+8dd	-ku
+=10	=10
+2cc}	graj}
+=11yy	=11yy
+{8ff	{Bog
+8ff	ci
+8ee	po-
+8gg	-ma-
+=12	=12
+2ff}	-gaj.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 2/4 
+!!!cut: Graj pastuszku graj Bog ci pomagaj
+!!!reg: od Lipna i Rypina
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 292-294
+!!!key: K0040a 08  F 2/4 
+!!!fkt: dumy i piesni
+!!!bem: Piesn wpleciona w opowiesc o siostrobojczyni. 
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

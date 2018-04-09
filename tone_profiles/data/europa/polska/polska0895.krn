@@ -1,0 +1,70 @@
+!!!OTL: Marsz
+!!!id: K0439T
+**kern
+*clefG2
+*k[]
+*C:
+*M4/4
+{4cc
+8.cc
+16cc
+4cc
+8dd
+8ee
+=2
+8gg
+8ff
+8ff
+8ff
+2ff}
+=3yy
+{4ee
+8ee
+8ff
+8aa
+8gg
+8ff
+8ee
+=4
+8dd
+8gg
+8gg
+8gg
+8gg
+8ff
+8ee
+8dd}
+=5yy
+{4cc
+8.cc
+16cc
+4cc
+8dd
+8ee
+=6
+8gg
+8ff
+8ff
+16cc}
+{4ee
+8ff
+8dd
+4cc
+4b
+=7
+4cc
+8.cc
+16cc
+2cc}
+==
+*-
+!!!minrhy: 16
+!!!meter: 4/4 
+!!!cut: Marsz
+!!!reg: z Warszawy
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 439
+!!!key: K0439T 16  C 4/4 
+!!!fkt: taneczna
+!!!bem: w dalszej czesci nastepuje Obertas. Dodac Rabant
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

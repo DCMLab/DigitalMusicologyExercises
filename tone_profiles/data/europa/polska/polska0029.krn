@@ -1,0 +1,55 @@
+!!!OTL: Podaj mi konia
+!!!id: K0001d
+**kern	**text
+*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]
+*g:	*g:
+*M3/4	*M3/4
+{4dd	{Po-
+8b-	-daj
+8dd	mi
+8ff	ko-
+8dd	-nia
+=2	=2
+4cc	po-
+8a	-daj
+8cc	mi
+8dd	ko-
+8a	-nia
+=3	=3
+8b-	sza-
+8b-	-ble
+4b-	do
+4cc	pa-
+=4	=4
+2.dd}	-sa}
+=5yy	=5yy
+{4dd	{po-
+8ff	-ja-
+8ff	-de
+8gg	do
+8ee-	ni
+=6	=6
+4cc	po-
+8a	-ja-
+8cc	-de
+8dd	do
+8b-	ni
+=7	=7
+8g	z.nia
+8b-	sie
+4b-	u-
+4a	-cie-
+=8	=8
+2.g}	-sze.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Podaj mi konia
+!!!reg: od Wieruszowa (Mieleszyn)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 7
+!!!key: K0001d 08  G 3/4 
+!!!fkt: dumy i piesni
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

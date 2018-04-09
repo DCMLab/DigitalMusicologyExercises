@@ -1,0 +1,105 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0032t
+**kern
+*clefG2
+*k[f#]
+*C:
+*M3/4
+{4ff
+(8ee
+8gg
+8ee
+8cc)
+=2yy
+8c
+=3
+(8cc
+8b)
+4cc
+(8dd
+8ee)
+=4yy
+8c
+=5
+4ff
+(8ee
+8gg
+8ee
+8cc)
+=6yy
+8c
+=7
+(8dd
+8b)
+2cc}
+=8yy
+{(8a
+8cc)
+4ee
+4ee
+=9
+4dd
+4cc
+4b
+=10
+(8a
+8cc)
+2dd
+=11
+(8a
+8cc)
+4ee
+4ee
+=12
+4dd
+4cc
+4b
+=13
+(8a
+8f#)
+2g}
+=14yy
+{8c
+(8d
+8e
+8f#)
+8c
+4g
+4b
+=15
+4dd
+4cc
+4b
+=16
+(8a
+8cc)
+2dd
+=17
+8c
+(8d
+8e
+8f#)
+8c
+4g
+4b
+=18
+4dd
+4cc
+4b
+=19
+(8a
+8f#)
+2g}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: od Warszawy (Lomna)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol.1, p. 318
+!!!key: K0032t 08  C 3/4 
+!!!fkt: taneczna
+!!!bem1: zmiana tonacji: pierwsza fraza w C, druga i trzecia w G.
+!!!bem2: Melodia zakodowana dwukrotnie.
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

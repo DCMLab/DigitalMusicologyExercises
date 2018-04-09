@@ -1,0 +1,80 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0081t
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+{(8ee
+8gg
+8aa
+8gg
+8dd
+8g)
+=2yy
+8c
+=3
+(8ee
+8cc
+8ee
+8gg
+8aa
+8gg)
+=4yy
+8c
+=5
+(8ee
+8gg
+8aa
+8gg
+8dd
+8g)
+=6yy
+8c
+=7
+(8b
+8dd
+8ff
+8ee)
+4cc}
+=8yy
+{4ee
+4ee
+(8cc
+8a)
+=9yy
+8c
+=10
+(8g
+8b
+8dd
+8ff
+8ee
+8cc)
+=11yy
+8c
+=12
+(8cc
+8ee)
+4ee
+(8cc
+8a)
+=13yy
+8c
+=14
+(8g
+8g
+8g
+8b)
+4cc}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: od Warszawy (Babice)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol.1, p. 334
+!!!key: K0081t 08  C 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

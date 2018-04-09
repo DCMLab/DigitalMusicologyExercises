@@ -1,0 +1,78 @@
+!!!OTL: Czego kalino w dole stoisz
+!!!id: K0018k
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/4	*M3/4
+{4g	{Cze-
+4cc	-go
+4ee	ka-
+=2	=2
+(8ee	-li
+8ff)	-
+4.dd	-no
+8ff	|
+=3	=3
+4ee	w.do-
+4.cc	-le
+8g	|
+=4	=4
+4g	sto-
+2cc}	-isz}
+=5yy	=5yy
+{4ee	{cze-
+4gg	-go
+4gg	ka-
+=6	=6
+4aa	-li-
+2gg	-no
+=7	=7
+4ff	w.do-
+4.ff	-le
+8dd	|
+=8	=8
+4dd	sto-
+4.gg	-isz
+8ff}	|}
+=9yy	=9yy
+{4ee	{czy
+4cc	sie
+4cc	ty
+=10	=10
+4ff	let-
+4.dd	-niej
+8ff	|
+=11	=11
+4ee	su-
+4.cc	-szy
+8g	|
+=12	=12
+4g	bo-
+4.gg	-isz
+8ff}	|}
+=13yy	=13yy
+{4ee	{czy
+4cc	ty
+4cc	sie
+=14	=14
+4ff	let-
+4.dd	-niej
+8ff	|
+=15	=15
+4ee	su-
+4.cc	-szy
+8g	|
+=16	=16
+4g	bo-
+2cc}	-isz.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Czego kalino w dole stoisz
+!!!reg: od Bodzanowa (Letowo, Makolin)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 213
+!!!key: K0018k 08  C 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

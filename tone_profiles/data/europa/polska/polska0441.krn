@@ -1,0 +1,56 @@
+!!!OTL: Oj nasza karczmarka dobrze sobie zyjesz
+!!!id: K0038l
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/4	*M3/4
+{4g	{Oj
+2cc	na-
+=2	=2
+8dd	-sza
+8cc	kar-
+(8b	-czmar
+8cc)	-
+(8dd	-ka
+8ee)	|
+=3yy	=3yy
+8c	do-
+=4	=4
+4g	-brze
+2cc	so-
+=5	=5
+8dd	-bie
+8cc	zy-
+4ee	-jesz
+4gg}	|}
+=6yy	=6yy
+{4gg	{trzech
+4ff	zlo-
+8ee	-dzie-
+8gg	-jow
+=7	=7
+4ff	za
+4ee	kar-
+8dd	-czem-
+8dd	-ka
+=8	=8
+4g	a
+2cc	ty
+=9	=9
+8dd	z.czwar-
+8cc	-tym
+4b	pi-
+4cc}	-jesz.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Oj nasza karczmarka dobrze sobie zyjesz
+!!!reg: od Chmielnika (Sedziejewice)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 289
+!!!key: K0038l 08  C 3/4 
+!!!fkt: dumy i piesni
+!!!bem1: Piesn wpleciona w opowiesc o karczmarce, ktora zlodzieje zabawiali
+!!!bem2: podczas gdy ich kompan kradl
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

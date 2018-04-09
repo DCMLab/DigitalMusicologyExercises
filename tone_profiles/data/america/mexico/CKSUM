@@ -1,0 +1,28 @@
+CHEKSUMS for files from /essen/america/mexico
+at http://kern.humdrum.org
+downloaded on Thu Apr  5 04:34:11 PDT 2018
+A current version of these files may be downloaded using the address:
+   http://kern.humdrum.org/data?f=zip&l=/essen/america/mexico
+==================================================================
+
+The following lines list the checksum values for all score
+files in this downloaded zip archive.
+
+A "checksum" value is an error-checking mechanism that may
+assist in determining whether a file has been modified or data
+garbled due to transmission or faulty storage.  The "checksum A"
+value uses the POSIX 2 checksum algorithm.  The "checksum B" value
+uses the CCITT cyclic redundancy check algorithm.  
+
+Note that checksum commands will differ for ASCII files formatted
+in DOS/Windows style or Unix/Macintosh formatted text.  The files in
+this ZIP archive were in Unix/Macintosh line formatting style when the
+checksums were compiled.
+
+checksum A   checksum B    filename
+===================================================================
+
+2459836991 807 mexico01.krn
+283734528 883 mexico02.krn
+2175039247 602 mexico03.krn
+67085257 655 mexico04.krn

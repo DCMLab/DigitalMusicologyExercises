@@ -1,0 +1,62 @@
+!!!OTL: Hej w Berlinie w Berlinie na tej to rowninie
+!!!id: K0035e
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M2/4	*M2/4
+{8g	{Hej
+8a	w.Ber-
+8b	-li-
+8cc	-nie
+=2	=2
+4dd	w.Ber-
+4ee	-li-
+=3	=3
+2dd}	-nie}
+=4yy	=4yy
+{4gg	{na
+8gg	tej
+8ee	to
+=5	=5
+4dd	row-
+4a	-ni-
+=6	=6
+2b}	-nie}
+=7yy	=7yy
+{8g	{szyn-
+8gg	-ku-
+8ff#	-je
+8ee	tam
+=8	=8
+8ee	ma
+8dd	mi-
+4dd	-la
+=9	=9
+8dd	Ha-
+8ee	-nu-
+8dd	-len-
+8b	-ka
+=10	=10
+8cc	ro-
+8a	-dzo-
+4g}	-na}
+=11yy	=11yy
+{4dd	{w.Ber-
+8dd	-li-
+8g	-nie
+=12	=12
+4dd	na
+4a	wi-
+=13	=13
+2g}	-nie.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 2/4 
+!!!cut: Hej w Berlinie w Berlinie na tej to rowninie
+!!!reg: od Opola Sl. (Kotorz)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 268-269
+!!!key: K0035e 08  G 2/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

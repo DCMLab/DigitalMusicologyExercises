@@ -1,0 +1,57 @@
+!!!OTL: Obertasik
+!!!id: K0299T
+**kern
+*clefG2
+*k[]
+*a:
+*M3/4
+{8ee
+8dd#
+4ee
+4ff
+=2
+8ee
+8dd#
+4ee
+4cc
+=3
+8a
+8cc
+4.ee
+8cc
+=4
+8b
+8g#
+4a
+4e}
+=5yy
+{8a
+8cc
+4dd
+4a
+=6
+8b
+8dd
+4.ee
+8b
+=7
+8a
+8cc
+4ee
+4b
+=8
+8cc
+8a
+4g#
+4e}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Obertasik
+!!!reg: od Tarczyna (Michrow)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 399
+!!!key: K0299T 08  A 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

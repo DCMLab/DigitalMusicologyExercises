@@ -1,0 +1,73 @@
+!!!OTL: Hej jechali przez wsisko
+!!!id: K0052t
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+{4cc
+8.g
+16g
+16c
+(8f
+8e
+8d)
+16c
+16c
+=1
+8.c
+16c
+4e
+4d
+=2
+4cc
+8.g
+16g
+16c
+(8f
+8e
+8d)
+16c
+16c
+=3
+8.c
+16c
+4e
+4d}
+=4yy
+{8.cc
+16cc
+4dd
+4ee
+=5
+8.dd
+16dd
+(8cc
+8b)
+(8a
+8g)
+=6yy
+16c
+=7
+8.cc
+8cc
+8.dd
+4ee
+=8
+8.dd
+16dd
+(8cc
+8b)
+(8a
+8g)}
+==
+*-
+!!!minrhy: 16
+!!!meter: 3/4 
+!!!cut: Hej jechali przez wsisko
+!!!reg: od Pragi (Grochow, Milosna)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol.1, p. 325
+!!!key: K0052t 16  C 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

@@ -1,0 +1,47 @@
+!!!OTL: Hej od lysej gory jechali mazury
+!!!id: K0004
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M4/4	*M4/4
+{8g	{Hej
+8f#	od
+8g	ly-
+8b	-s&eacute;j
+4.dd	go-
+8ee	-ry
+=2	=2
+8dd	je-
+8cc	-cha-
+8b	-li
+8a	ma-
+4.b	-zu-
+8g}	-ry}
+=3yy	=3yy
+{8dd	{je-
+8cc	-cha-
+8b	-li
+8cc	co
+4.dd	zy-
+8gg	-wo
+=4	=4
+8ff#	po-
+8ff#	-pi-
+8dd	-ja-
+8ff#	-li
+8gg	pi-
+8g}	-wo.}
+4r	%
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 4/4 
+!!!cut: Hej od lysej gory jechali mazury
+!!!reg: od Warki
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 27
+!!!key: K0004  08  G 4/4 
+!!!fkt: dumy i piesni
+!! KOLBERG
+!!!RNB: symbol: &eacute;= e acute  (UTF-8: é)
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

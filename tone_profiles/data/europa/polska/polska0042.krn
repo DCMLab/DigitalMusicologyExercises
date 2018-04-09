@@ -1,0 +1,65 @@
+!!!OTL: Stala sie nam nowina, pani pana zabila
+!!!id: K0003d
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*g:	*g:
+*M2/4	*M2/4
+{8g	{Sta-
+8a	-la
+8b-	sie
+8g	nam
+=2	=2
+4a	no-
+(16g	-wi-
+16f#	|
+16e	|
+16f#)	|
+=3yy	=3yy
+16g	-na
+=4	=4
+2d}	|}
+=5yy	=5yy
+{8b-	{sta-
+8cc	-la
+8dd	sie
+8dd	nam
+=6	=6
+4cc	no-
+8dd	-wi-
+8cc	-na
+=7	=7
+8b-	pa-
+8b-	-ni
+8a	pa-
+8f#	-na
+=8	=8
+4g	za-
+8cc	-bi-
+8a}	-la}
+=9yy	=9yy
+{8b-	{pa-
+8b-	-ni
+8a	pa-
+8f#	-na
+=10	=10
+4g	za-
+(16g	-bi-
+16f#	|
+16e	|
+16f#)	|
+=11yy	=11yy
+16g	-la.
+=12	=12
+2g}	|}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 2/4 
+!!!cut: Stala sie nam nowina, pani pana zabila
+!!!reg: od Ilowa (Brzozow, Mlodziezyn)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 16
+!!!key: K0003d 16  G 2/4 
+!!!fkt: dumy i piesni
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

@@ -1,0 +1,94 @@
+!!!OTL: Nasza karczmareczka dobrze sobie zyje
+!!!id: K0038c
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M3/4	*M3/4
+{4d	{Na-
+2g	-sza
+=2	=2
+8.g	karcz-
+16a	-ma-
+4b	-recz-
+4b	-ka
+=3	=3
+4dd	do-
+2a	-brze
+=4	=4
+8a	so-
+8a	-bie
+4f#	zy-
+4d}	-je}
+=5yy	=5yy
+{8.d	{trzech
+16g	zlo-
+(8g	-dzie
+8f#)	-
+(8g	-i
+8a)	|
+=6yy	=6yy
+16g	za
+=7	=7
+8.g	o-
+16a	-kien-
+4b	-kiem
+4b	o-
+=8	=8
+4dd	-na
+2a	z.czwar-
+=9	=9
+8a	-tym
+8a	pi-
+4f#	-je
+4g}	|}
+=10yy	=10yy
+{4g	{na-
+2ee	-sza
+=11	=11
+8ee	karcz-
+8cc	-ma-
+4ee	-recz-
+4ee	-ka
+=12	=12
+4gg	do-
+2dd	-brze
+=13	=13
+8dd	so-
+8dd	-bie
+4b	zy-
+4g}	-je}
+=14yy	=14yy
+{8dd	{trzech
+8dd	zlo-
+4b	-dzie-
+4dd	-i
+=15	=15
+8cc	za
+8d	o-
+(8f#	-kien
+8a)	-
+(8dd	-kiem
+8cc)	|
+=16yy	=16yy
+16g	o-
+=17	=17
+4b	-na
+2g	z.czwar-
+=18	=18
+8d	-tym
+8f#	pi-
+4a	-je.
+4g}	|}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 3/4 
+!!!cut: Nasza karczmareczka dobrze sobie zyje
+!!!reg: od Grodziska, Nadarzyna
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 283-284
+!!!key: K0038c 16  G 3/4 
+!!!fkt: dumy i piesni
+!!!bem1: Piesn wpleciona w opowiesc o karczmarce, ktora zlodzieje zabawiali
+!!!bem2: podczas gdy ich kompan kradl
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

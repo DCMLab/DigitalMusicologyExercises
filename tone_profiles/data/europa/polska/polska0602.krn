@@ -1,0 +1,119 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0141t
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+{8g
+8b
+4.dd
+8b
+=2
+8ee
+8a
+4ee
+8dd
+8b
+=3
+8g
+8b
+4.dd
+8b
+=4
+4ee
+8a
+8b
+4g}
+=5yy
+{4a
+4a
+4a
+=6
+8d
+8f#
+4a
+4d
+=7
+4b
+4e
+4a
+=8
+8d
+8e
+4f#
+4d}
+=9yy
+{8g
+8b
+4.dd
+8b
+=10
+8ee
+8a
+4ee
+8dd
+8b
+=11
+8g
+8b
+4.dd
+8b
+=12
+8ee
+8r
+8f#
+8b
+4g}
+=13yy
+{8g
+8cc
+4ee
+8g
+8cc
+=14
+4dd
+4b
+4cc
+=15
+8g
+8cc
+4ee
+8g
+8cc
+=16
+4dd
+4b
+4cc}
+=17yy
+{8a
+8a
+4a
+4a
+=18
+4g
+4g
+4g
+=19
+8g
+8cc
+8ee
+8g
+8cc
+8ee
+=20
+4dd
+4b
+4cc}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: od Warszawy (Raszyn)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 352
+!!!key: K0141t 08  G 3/4 
+!!!fkt: taneczna
+!!!bem: modulacja z G do C. Tu: pominiete dwudxwieki.
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

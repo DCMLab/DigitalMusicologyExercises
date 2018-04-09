@@ -1,0 +1,58 @@
+!!!OTL: Obleke kontusz
+!!!id: K0001f
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*a:	*a:
+*M3/4	*M3/4
+{4a	{Ob-
+8cc	-le-
+8b	-ke
+8a	kon-
+8g#	-tusz
+=2	=2
+4a	ob-
+8cc	-le-
+8b	-ke
+8a	kon-
+8g#	-tusz
+=3	=3
+8a	sza-
+8b	-ble
+4cc	przy-
+4dd	-pa-
+=4	=4
+2.ee}	-sze}
+=5yy	=5yy
+{8cc	{poj-
+8ee	-de
+8gg	do
+8ee	dziew-
+8dd	-czy-
+8cc	-ny
+=6	=6
+8b	poj-
+8dd	-de
+8ee	do
+8dd	je-
+8cc	-dy-
+8b	-n&eacute;j
+=7	=7
+8a	tam
+8cc	sie
+4ee	u-
+4g#	-cie-
+=8	=8
+2.a}	-sze.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Obleke kontusz
+!!!reg: od Ostroleki, Ostrowa (Wysoce, Wasew i t.d.)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 8-9
+!!!key: K0001f 08  A 3/4 
+!!!fkt: dumy i piesni
+!! KOLBERG
+!!!RNB: symbol: &eacute;= e acute  (UTF-8: é)
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

@@ -1,0 +1,75 @@
+!!!OTL: Jak pojdziesz z karczmy do dom
+!!!id: K0034t
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*G:	*G:
+*M3/4	*M3/4
+{8a	{Jak
+8cc	poj-
+4cc	-dziesz
+(8a	z.kar-
+8cc)	|
+=2yy	=2yy
+16g	-czmy
+=3	=3
+4dd	do
+(8b	|
+8a)	dom
+4g	trac-
+=4	=4
+8b	-ze
+8dd	mnie
+4ee	no
+(8cc	-
+8a)	-ga
+=5yy	=5yy
+16g	da
+=6	=6
+4f#	no-
+4d	-ga
+4c}	|}
+=7yy	=7yy
+{8e	{a
+8e	ja
+4g	sie
+(8f	tez
+8e)	|
+=8yy	=8yy
+16g	do
+=9	=9
+16g	-
+(8f	-miar-
+8e)	-ku-
+8f	-je
+16g	poj-
+4a	-de
+=10yy	=10yy
+4cc	za
+=11	=11
+8a	to
+8cc	|
+4dd	-
+16g	-ba
+(8cc	za
+8b	to-
+8g)	-ba.
+16g	|
+16g	|
+=12	=12
+8.f#	|
+16f#	|
+4d	|
+4c}	|}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 3/4 
+!!!cut: Jak pojdziesz z karczmy do dom
+!!!reg: od Nowego Dworu (Jablonna)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol.1, p. 319
+!!!key: K0034t 16  G 3/4 
+!!!fkt: taneczna
+!!!bem: watpliwa tonacja
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

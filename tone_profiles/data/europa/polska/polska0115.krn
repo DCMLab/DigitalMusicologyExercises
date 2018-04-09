@@ -1,0 +1,63 @@
+!!!OTL: A w Warszawie w miescie co sie bylo stalo
+!!!id: K0006b
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M4/4	*M4/4
+{8cc	{A
+8g	w.War-
+8e	-sza-
+8g	-wie
+4cc	w.mie-
+4ee	-scie
+=2	=2
+8dd	co
+8cc	sie
+8b	by-
+8a	-lo
+4.g	sta-
+8e}	-lo}
+=3yy	=3yy
+{8e	{ze
+8g	sie
+8g	dwo-
+8g	-je
+4.a	lu-
+8f	-dzi
+=4	=4
+8f	w.so-
+8a	-bie
+8cc	roz-
+8b	-ko-
+4.g	-cha-
+8g}	-lo}
+=5yy	=5yy
+{8g	{ze
+8b	sie
+8dd	dwo-
+8ee	-je
+(8ff	lu-
+8ee)	|
+(8gg	-dzi
+8ee)	|
+=6yy	=6yy
+8c	w.so-
+=7	=7
+8cc	-bie
+8cc	roz-
+8dd	-ko-
+8b	-cha-
+4cc	-lo.
+4cc}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 4/4 
+!!!cut: A w Warszawie w miescie co sie bylo stalo
+!!!reg: od Warszawy i Pragi (Grochow)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 72
+!!!key: K0006b 08  C 4/4 
+!!!fkt: dumy i piesni
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

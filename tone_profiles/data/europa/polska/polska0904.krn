@@ -1,0 +1,62 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0446T
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+{8cc
+8dd
+8ee
+4gg
+4ee
+=1
+8gg
+8ff
+4aa
+4gg
+=2
+8cc
+8dd
+8ee
+4gg
+4ee
+=3
+8gg
+8aa
+4ff
+4dd}
+=4yy
+{8g
+8a
+8b
+4dd
+4b
+=5
+8cc
+8cc
+4ee
+4cc
+=6
+8g
+8a
+8b
+4dd
+4ff
+=7
+8ee
+8ff
+8gg
+4ee
+4cc}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: z Warszawy, Kaluszyna
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 442
+!!!key: K0446T 08  C 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

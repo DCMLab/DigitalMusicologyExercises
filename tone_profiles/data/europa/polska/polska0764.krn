@@ -1,0 +1,85 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0304T
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+{8g
+8b
+4dd
+4b
+=2
+8cc
+8b
+4a
+8b
+8a
+=3
+8g
+8b
+4dd
+8ee
+8dd
+=4
+8cc
+8b
+4a
+4a}
+=5yy
+{8g
+8b
+4dd
+8ff#
+8dd
+=6
+8ee
+8a
+4cc
+8b
+8a
+=7
+8g
+8b
+4dd
+8ff#
+8dd
+=8
+8ee
+8b
+4.cc
+8a}
+=9yy
+{8g
+8b
+4dd
+8ff#
+8dd
+=10
+8ee
+8b
+8cc
+8b
+4a
+=11
+8g
+8b
+4dd
+8ee
+8b
+=12
+8cc
+8b
+4a
+4a}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: od Gory Kalwarii (Kaweczyn)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 400
+!!!key: K0304T 08  G 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

@@ -1,0 +1,94 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0010t
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+*M3/4
+{(8e
+8a)
+(8cc#
+8e
+8a
+8cc#)
+=2yy
+8a
+=3
+(8e
+8a)
+(8cc#
+8b)
+4a
+=4
+(8e
+8g#
+8b
+8e
+8g#
+8b)
+=5yy
+8a
+=6
+(8e
+8a)
+(8cc#
+8b)
+4a}
+=7yy
+{(8dd
+8ff#)
+4ff#
+4ee
+=8
+(8cc#
+8ee)
+4ee
+4dd
+=9
+(8b
+8cc#
+8dd
+8e
+8g#
+8e)
+=10yy
+8a
+=11
+(8a
+8b
+8cc#
+8dd)
+4ee}
+=12yy
+{(8dd
+8ff#)
+4ff#
+4ee
+=13
+(8cc#
+8ee)
+4ee
+4dd
+=14
+(8b
+8cc#
+8dd
+8e
+8g#
+8e)
+=15yy
+8a
+=16
+2.a}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: od Warszawy (Mlociny)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol.1, p. 312
+!!!key: K0010t 08  A 3/4 
+!!!fkt: taneczna
+!!!bem: pierwsza fraza ma znak repetycji
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

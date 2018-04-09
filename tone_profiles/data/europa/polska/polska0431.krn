@@ -1,0 +1,70 @@
+!!!OTL: Dobry dzien karczmarko, dobrze sobie zyjesz
+!!!id: K0038a
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/4	*M3/4
+{4g	{Do-
+2cc	-bry
+=2	=2
+8b	dzien
+8cc	karcz-
+4dd	-mar-
+4ee	-ko
+=3	=3
+4g	do-
+2cc	-brze
+=4	=4
+8b	so-
+8cc	-bie
+4dd	zy-
+4ee}	-jesz}
+=5yy	=5yy
+{8ff	{trzech
+8ff	zlo-
+4ff	-dzie-
+4ff	-jow
+=6	=6
+8ee	za
+8dd	karcz-
+4ee	-ma
+4ee	jest
+=7	=7
+4ee	a
+2g	z.czwar-
+=8	=8
+8cc	-tym
+8b	tan-
+4dd	-cu-
+4cc}	-jesz}
+=9yy	=9yy
+{8dd	{trzech
+8ee	zlo-
+4ff	-dzie-
+4ff	-jow
+=10	=10
+8ee	za
+8dd	karcz-
+4cc	-ma
+4ee	jest
+=11	=11
+4ee	a
+2g	z.czwar-
+=12	=12
+8cc	-tym
+8b	tan-
+4dd	-cu-
+4cc}	-jesz.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Dobry dzien karczmarko, dobrze sobie zyjesz
+!!!reg: od Mogielnicy, Rawy
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 281-282
+!!!key: K0038a 08  C 3/4 
+!!!fkt: dumy i piesni
+!!!bem1: Piesn wpleciona w opowiesc o karczmarce, ktora zlodzieje zabawiali
+!!!bem2: podczas gdy ich kompan kradl
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

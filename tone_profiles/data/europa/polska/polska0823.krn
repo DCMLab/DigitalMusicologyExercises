@@ -1,0 +1,123 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0363T
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+{8g
+8b
+8dd
+8gg
+8bb
+8b
+=2
+8cc
+8cc
+4a
+4ee
+=3
+8d
+8f#
+8a
+8cc
+8ee
+8f#
+=4
+8dd
+8dd
+4b
+4g}
+=5yy
+{8cc
+8ee
+4gg
+8ff#
+8ee
+=6
+8dd
+8dd
+4.gg
+8b
+=7
+8dd
+8dd
+4.cc
+8a
+=8
+8dd
+8dd
+4b
+4g}
+=9yy
+{8cc
+8ee
+4gg
+8ff#
+8ee
+=10
+8dd
+8bb
+8aa
+8gg
+8ff#
+8ee
+=11
+8dd
+8dd
+8cc
+8d
+8e
+8f#
+=12
+4g
+2g}
+=13yy
+{4a
+4a
+4b
+=14
+8e
+8e
+4g
+4f#
+=15
+4a
+4a
+4dd
+=16
+8cc#
+8cc#
+4ee
+4dd}
+=17yy
+{4.dd
+8ee
+8a
+8cc
+=18
+8b
+8dd
+4gg
+4b
+=19
+8b
+8dd
+4gg
+4b
+=20
+8b
+8dd
+4gg
+4g}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: od Mszczonowa
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 417
+!!!key: K0363T 08  G 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

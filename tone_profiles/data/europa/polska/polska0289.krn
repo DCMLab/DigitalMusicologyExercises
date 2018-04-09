@@ -1,0 +1,61 @@
+!!!OTL: Stoi jawor zielony mojej matki rodzonyj
+!!!id: K0015e
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*a:	*a:
+*M2/4	*M2/4
+{8e	{Sto-
+8a	-i
+8g#	ja-
+8a	-wor
+=2	=2
+4cc	zie-
+(8b	-lo
+8g#)	-
+=3yy	=3yy
+8a	-ny
+=4	=4
+2a}	|}
+=5yy	=5yy
+{8cc	{sto-
+8b	-i
+8cc	ja-
+8dd	-wor
+=6	=6
+4ee	zie-
+8ff	-lo-
+8dd}	-ny}
+=7yy	=7yy
+{8ee	{mo-
+8gg	-jej
+8ff	ma-
+8dd	-tki
+=8	=8
+4ee	ro-
+8ff	-dzo-
+8b}	-nej}
+=9yy	=9yy
+{8cc	{mo-
+8b	-jej
+8cc	ma-
+8dd	-tki
+=10	=10
+4ee	ro-
+(8b	-dzo
+8g#)	-
+=11yy	=11yy
+8a	-nej.
+=12	=12
+2a}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 2/4 
+!!!cut: Stoi jawor zielony mojej matki rodzonyj
+!!!reg: od Gostynina (Lesniewice)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 190-191
+!!!key: K0015e 08  A 2/4 
+!!!fkt: dumy i piesni
+!!!bem: w 6. takcie mozliwy wariant:  5+146b
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

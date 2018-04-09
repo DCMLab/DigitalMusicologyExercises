@@ -1,0 +1,71 @@
+!!!OTL: A w Krakowie na ulicy pija wino kanonicy
+!!!id: K0025b
+**kern	**text
+*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]
+*D:	*D:
+*M2/4	*M2/4
+{8d	{A
+8d	w.Kra-
+8f#	-ko-
+8g	-wie
+=2	=2
+8a	na
+8a	u-
+(16a	-li
+16f#)	-
+8d}	-cy}
+=3yy	=3yy
+{8e	{pi-
+8e	-ja
+(16g	wi
+16e)	-
+8d	-no
+=4	=4
+8f#	ka-
+8a	-no-
+8d	-ni-
+8d}	-cy}
+=5yy	=5yy
+{8b	{pi-
+8b	-li
+(16dd	pi
+16cc#)	-
+8b	-li
+=6	=6
+8a	za-
+8a	-pla-
+8dd	-ci-
+8f#}	-li}
+=7yy	=7yy
+{8g	{grzecz-
+8g	-na
+(16b	pan
+16a)	-
+8g	-ne
+=8	=8
+8f#	na-
+8f#	-mo-
+8a	-wi-
+8d}	-li}
+=9yy	=9yy
+{8e	{grzecz-
+8e	-na
+(16g	pan
+16e)	-
+8d	-ne
+=10	=10
+8f#	na-
+8a	-mo-
+8d	-wi-
+8d}	-li.}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 2/4 
+!!!cut: A w Krakowie na ulicy pija wino kanonicy
+!!!reg: od Kalisza
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 241-242
+!!!key: K0025b 16  D 2/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

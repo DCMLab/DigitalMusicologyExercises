@@ -1,0 +1,53 @@
+!!!OTL: Ja nieszczesliwa drzwi uchylila
+!!!id: K0010i
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M3/4	*M3/4
+{4b	{Ja
+4.dd	niesz-
+8f#	-cze-
+=2	=2
+4a	-sli-
+4g	-wa
+4r	%drzwi
+=3	=3
+4cc	u-
+4.ee	-chy-
+8cc	-li-
+=4	=4
+4cc	-la
+4b}	|}
+4r	%
+=5yy	=5yy
+{4b	{go-
+8dd	-la-
+8dd	-bek
+8cc	u-
+8a	-ciek
+=6	=6
+4a	go-
+8a	-la-
+8b	-bek
+8cc	u-
+8a	-ciek
+=7	=7
+4b	nie
+4.dd	zo-
+8f#	-ba-
+=8	=8
+4a	-czy-
+4g}	-la.}
+4r	%
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Ja nieszczesliwa drzwi uchylila
+!!!key: K0010i 08  G 3/4 
+!!!fkt: dumy i piesni
+!!!bem1: watek Chowac golabka w nowej komorze
+!!!bem2: druga z dwu wersji
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

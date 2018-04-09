@@ -1,0 +1,71 @@
+!!!OTL: Pod jaworem lozenko
+!!!id: K0015k
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/4	*M3/4
+{(8g	{Pod
+8a)	|
+8b	ja-
+8c	-wo-
+4cc	-rem
+=2yy	=2yy
+4cc	lo-
+=3	=3
+8b	-zen-
+8cc	-ko
+2dd}	|}
+=4yy	=4yy
+{8c	{pod
+(8b	|
+8cc)	ja-
+8dd	-wo-
+8c	-rem
+4ee	lo-
+4ee	-zen-
+=5	=5
+8dd	-ko
+8ee	|
+2ff}	|}
+=6yy	=6yy
+{8c	{le
+(8cc	|
+8dd	-
+8ee)	-zy
+8c	na
+2ee	niem
+=7	=7
+2dd	Ja-
+4cc	-sien-
+=8	=8
+8dd	-ko
+8ee	|
+2ff}	|}
+=9yy	=9yy
+{8c	{le
+(8cc	|
+8dd	-
+8ee)	-zy
+8c	na
+2ee	niem
+=10	=10
+2dd	|
+(8ee	Ja-
+8cc)	-sien-
+=11yy	=11yy
+8c	-ko.
+=12	=12
+8b	|
+8dd	|
+2cc}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Pod jaworem lozenko
+!!!reg: od Kozieglow
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 193
+!!!key: K0015k 08  C 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

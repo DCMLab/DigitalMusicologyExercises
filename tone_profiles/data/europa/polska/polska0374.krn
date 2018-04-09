@@ -1,0 +1,59 @@
+!!!OTL: A w Krakowie da w Krakowie tam pijali szewczykowie
+!!!id: K0025c
+**kern	**text
+*clefG2	*clefG2
+*k[f#c#]	*k[f#c#]
+*G:	*G:
+*M2/4	*M2/4
+{8g	{A
+8b	w.Kra-
+8g	-ko-
+8b	-wie
+=2	=2
+8dd	da
+8dd	w.Kra-
+8cc#	-ko-
+8a}	-wie}
+=3yy	=3yy
+{8dd	{tam
+8dd	pi-
+8g	-ja-
+8g	-li
+=4	=4
+8g	sze-
+8f#	-wczy-
+8f#	-ko-
+8d}	-wie}
+=5yy	=5yy
+{16d	{to-
+16f#	-dy
+8a	da
+16d	to-
+16f#	-dy
+8a	da
+=6	=6
+8a	up-
+8g	-sa
+(8g	sa
+8b)}	|}
+=7yy	=7yy
+{16d	{to-
+16f#	-dy
+8a	da
+16d	to-
+16f#	-dy
+8a	da
+=8	=8
+8dd	up-
+8f#	-sa
+4g}	sa.}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 2/4 
+!!!cut: A w Krakowie da w Krakowie tam pijali szewczykowie
+!!!reg: od Kutna i Krosniewic
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 242
+!!!key: K0025c 16  G 2/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

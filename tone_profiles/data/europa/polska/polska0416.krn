@@ -1,0 +1,77 @@
+!!!OTL: Kaj to jedziesz Jasiu 
+!!!id: K0036g
+**kern	**text
+*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]
+*g:	*g:
+*M4/4	*M4/4
+{8g	{Kaj
+8g	to
+8cc	je-
+8cc	-dziesz
+=1	=1
+4dd	Ja-
+4b-	-siu
+4dd	Ja-
+4b-}	-siu}
+=2yy	=2yy
+{8dd	{Ja-
+8b-	-siu-
+8dd	-len-
+8ff#	-ku
+4gg	Ja-
+4dd	-siu
+=3	=3
+8dd	na
+8b-	wo-
+8dd	-jen-
+8ff#	-ke
+4gg	Ka-
+4dd}	-siu}
+=4yy	=4yy
+{8dd	{na
+8b-	wo-
+8dd	-jen-
+8ff#	-ke
+4gg	da-
+4aa	-lecz-
+=5	=5
+1dd}	-ko}
+=6yy	=6yy
+{4dd	{Wex
+4gg	mnie
+8dd	Ja-
+8ff	-siu
+(16ff	z.so
+16ee-)	-
+8dd	-ba
+=7	=7
+4cc	po-
+4dd	-ja-
+8g	-de
+8a	ja
+8b-	z.to-
+8g}	-ba}
+=8yy	=8yy
+{8g	{na
+8a	wo-
+8b-	-jen-
+8cc	-ke
+4dd	da-
+(8a	-lecz
+8f#)	-
+=9yy	=9yy
+16g	-ko.
+=10	=10
+2g}	|}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 4/4 
+!!!cut: Kaj to jedziesz Jasiu 
+!!!reg: od Siewierza (Mierzecice, Saczow)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 273
+!!!key: K0036g 16  G 4/4 
+!!!fkt: dumy i piesni
+!!!bem: wariant 1. taktu: 1_1_3b_4#_
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

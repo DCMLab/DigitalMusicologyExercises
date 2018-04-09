@@ -1,0 +1,75 @@
+!!!OTL: Nie zenie sie z dworska dziwka
+!!!id: K0127t
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+{8cc
+8ee
+4gg
+4gg
+=2
+8ff
+8dd
+4ee
+4ee
+=3
+4ff
+4dd
+4dd}
+=4yy
+{8cc
+8ee
+4gg
+4gg
+=5
+8ff
+8dd
+4ee
+4cc
+=6
+4dd
+4b
+4g}
+=7yy
+{8g
+8b
+4cc
+8ee
+8gg
+=8
+8ff
+8dd
+4ee
+4ee
+=9
+4ff
+4dd
+4b}
+=10yy
+{8g
+8b
+4cc
+8ee
+8gg
+=11
+8ff
+8dd
+4ee
+4cc
+=12
+4dd
+4b
+4g}
+==
+*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Nie zenie sie z dworska dziwka
+!!!reg: od Warszawy (Szczesliwice)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 348
+!!!key: K0127t 08  C 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

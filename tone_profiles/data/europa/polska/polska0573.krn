@@ -1,0 +1,64 @@
+!!!OTL: Oj nie chodx do taneczka
+!!!id: K0113t
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M3/4	*M3/4
+{4d	{Oj
+4.g	nie
+8b	chodx
+=2	=2
+8g	do
+(8dd	|
+8ee)	ta-
+8dd	-ne-
+8g	-czka
+4b	bo
+4g	wia-
+=3	=3
+4a	-nek
+4.cc	w.tan
+8ee	-
+=4	=4
+8g	-cu
+(8dd	zle-
+8ee)	-ci
+8dd	|
+8g	|
+4cc	|
+4a}	|}
+{4dd	{wiatr
+4.g	go
+8b	por-
+=5	=5
+8g	-wie
+(8dd	|
+8ee)	na
+8dd	smie-
+8g	-ci
+4b	da
+4g	wro-
+=6	=6
+4a	-cisz
+4.cc	bez
+8ee	|
+=7	=7
+8g	wia-
+(8d	-ne-
+8e)	-czka.
+8f#	|
+8g	|
+4a	|
+4f#}	|}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Oj nie chodx do taneczka
+!!!reg: od Warszawy (Pruszkow)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 344
+!!!key: K0113t 08  G 3/4 
+!!!fkt: taneczna
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

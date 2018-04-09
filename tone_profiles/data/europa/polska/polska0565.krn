@@ -1,0 +1,118 @@
+!!!OTL: Melodia instrumentalna
+!!!id: K0105t
+**kern
+*clefG2
+*k[f#]
+*G:
+*M3/4
+{(8.b
+16cc)
+(8dd
+8ee
+8dd
+8cc#)
+=2yy
+16g
+=3
+(8dd
+8gg)
+4bb
+4gg
+=4
+(8b
+8cc)
+(8dd
+8ee
+8dd
+8cc#)
+=5yy
+16g
+=6
+(8dd
+8gg)
+4bb
+4ddd}
+=7yy
+{(8ccc
+8aa)
+4ff#
+4ddd
+=8
+(8bb
+8gg)
+4dd
+4b
+=9
+(8a
+8cc
+8ff#
+8aa
+8ccc
+8ff#)
+=10yy
+16g
+=11
+4gg
+2gg}
+=12yy
+{(8ee
+8dd)
+4cc
+4a
+=13
+(8g
+8b
+8dd
+8gg
+8bb
+8ddd)
+=14yy
+16g
+=15
+(8ccc
+8aa)
+4ff#
+4ddd
+=16
+(8bb
+8gg)
+4dd
+4b}
+=17yy
+{(8ee
+8dd)
+4cc
+4a
+=18
+(8g
+8b
+8dd
+8gg
+8bb
+8ddd)
+=19yy
+16g
+=20
+(8f#
+8a
+8dd
+8ff#
+8aa
+8ddd)
+=21yy
+16g
+=22
+4gg
+2gg}
+==
+*-
+!!!minrhy: 16
+!!!meter: 3/4 
+!!!cut: Melodia instrumentalna
+!!!reg: od Warszawy (Ozarow)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol.1, p. 341-342
+!!!key: K0105t 16  G 3/4 
+!!!fkt: taneczna
+!!!bem: u Kolberga prawdopodobnie zbyteczna repetycja taktow 1-2.
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

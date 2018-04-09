@@ -1,0 +1,72 @@
+!!!OTL: Czego kalino w dole stoisz
+!!!id: K0018c
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*G:	*G:
+*M3/4	*M3/4
+{4b	{Cze-
+4b	-go
+4b	ka-
+=2	=2
+4cc	-li-
+2a	-no
+=3	=3
+4b	w.do-
+2g	-le
+=4	=4
+4d	sto-
+2g}	-isz}
+=5yy	=5yy
+{(8b	{cze
+8dd)	-
+4dd	-go
+4dd	ka-
+=6	=6
+4ee	-li-
+2cc	-no
+=7	=7
+4ee	w.do-
+2dd	-le
+=8	=8
+4b	sto-
+4.dd	-isz
+8cc}	|}
+=9yy	=9yy
+{4b	{czy
+4b	sie
+4b	ty
+=10	=10
+4cc	let-
+2a	-niej
+=11	=11
+4b	su-
+2g	-szy
+=12	=12
+4d	bo-
+4.dd	-isz
+8cc}	|}
+=13yy	=13yy
+{(8b	{czy
+8dd)	|
+4dd	sie
+4dd	ty
+=14	=14
+4cc	let-
+2a	-niej
+=15	=15
+4b	su-
+2g	-szy
+=16	=16
+4d	bo-
+2g}	-isz.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Czego kalino w dole stoisz
+!!!reg: od Szydlowca (Chlewiska)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 209-210
+!!!key: K0018c 08  G 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

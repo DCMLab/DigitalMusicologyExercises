@@ -1,0 +1,64 @@
+!!!OTL: A w Toruniu na ratuszu dzwoniono
+!!!id: K0012y
+**kern	**text
+*clefG2	*clefG2
+*k[b-]	*k[b-]
+*g:	*g:
+*M3/4	*M3/4
+{8b-	{A
+8cc	w.To-
+4dd	-ru-
+4dd	-niu
+=2	=2
+8dd	na
+8cc	ra-
+4a	-tu-
+4cc	-szu
+=3	=3
+8cc	dzwo-
+(16b-	-nio
+16a)	-
+4.g	-no
+(16a	|
+16b-)	|
+=4yy	=4yy
+16g	dzwo-
+=5	=5
+8a	-nio-
+8f#	-no
+2d}	|}
+=6yy	=6yy
+{8d	{i
+8e	|
+4f	wszy-
+4g	-stkie
+=7	=7
+8a	To-
+8f	-ru-
+4a	-nian-
+4cc	-ki
+=8	=8
+8cc	zwo-
+(16a	-la
+16b-)	-
+4.g	-no
+(16a	|
+16b-)	|
+=9yy	=9yy
+16g	zwo-
+=10	=10
+8a	-la-
+8f	-no.
+2d}	|}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meter: 3/4 
+!!!cut: A w Toruniu na ratuszu dzwoniono
+!!!reg: od Osterode (Kraplewo)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 165-166
+!!!key: K0012y 16  G 3/4 
+!!!fkt: dumy i piesni
+!!!bem: czy tonacja nie powinna by d-moll?
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

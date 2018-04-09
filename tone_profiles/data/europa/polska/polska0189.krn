@@ -1,0 +1,56 @@
+!!!OTL: Na Podolu bialy kamien
+!!!id: K0008c
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*a:	*a:
+*M3/4	*M3/4
+{8a	{Na
+8a	Po-
+4.ee	-do-
+8cc	-lu
+=2	=2
+*M2/4	*M2/4
+8ee	bia-
+8gg	-ly
+8gg	ka-
+8ff	-mien
+=3	=3
+8ee	bia-
+8ee	-ly
+8ee	ka-
+8cc}	-mien}
+=4yy	=4yy
+{8dd	{po-
+8dd	-do-
+4ee	-lan-
+=5yy	=5yy
+4a	-ka
+=6	=6
+*M3/4	*M3/4
+4.cc	sie-
+8ee	-dzi
+8dd	na
+8cc}	nim}
+=7yy	=7yy
+{8dd	{po-
+8dd	-do-
+4ee	-lan-
+4a	-ka
+=8	=8
+8dd	sie-
+8cc	-dzi
+4a	na
+4a}	nim.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meters: 3/4 2/4 
+!!!cut: Na Podolu bialy kamien
+!!!reg: od Sieciechowa
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 131
+!!!key: K0008c 08  A 3/4 2/4 
+!!!fkt: dumy i piesni
+!!!bem: u Kolberga wariant 8.cc
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

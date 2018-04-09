@@ -1,0 +1,70 @@
+!!!OTL: Czego kalino w dole stoisz
+!!!id: K0018q
+**kern	**text
+*clefG2	*clefG2
+*k[]	*k[]
+*C:	*C:
+*M3/4	*M3/4
+{4g	{Cze-
+4cc	-go
+4cc	ka-
+=2	=2
+4ee	-li-
+2dd	-no
+=3	=3
+4g	w.do-
+2cc	-le
+=4	=4
+4g	sto-
+2cc}	-isz}
+=5yy	=5yy
+{4cc	{cze-
+4ee	-go
+4ee	ka-
+=6	=6
+4gg	-li-
+2ff	-no
+=7	=7
+4ee	w.do-
+2cc	-le
+=8	=8
+4cc	sto-
+4gg	-isz
+4ff}	|}
+=9yy	=9yy
+{4ee	{czy
+4cc	sie
+4cc	ty
+=10	=10
+4ee	let-
+2dd	-niej
+=11	=11
+4g	su-
+2g	-szy
+=12	=12
+4g	bo-
+4gg	-isz
+4ff}	|}
+=13yy	=13yy
+{4ee	{czy
+4cc	ty
+4ee	sie
+=14	=14
+4ee	let-
+2dd	-niej
+=15	=15
+4g	su-
+2cc	-szy
+=16	=16
+4g	bo-
+2cc}	-isz.}
+==	==
+*-	*-
+!!!minrhy: 4
+!!!meter: 3/4 
+!!!cut: Czego kalino w dole stoisz
+!!!reg: od Gniewoszowa
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 216
+!!!key: K0018q 04  C 3/4 
+!!!fkt: dumy i piesni
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/

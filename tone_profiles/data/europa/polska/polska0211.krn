@@ -1,0 +1,82 @@
+!!!OTL: Wyszla byla grzeczna panna 
+!!!id: K0010b
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M3/4	*M3/4
+{8b	{Wy-
+8dd	-szla
+4dd	by-
+(8cc	-la
+8a)	|
+=2yy	=2yy
+8g	grze-
+=3	=3
+8b	-czna
+8dd	pan-
+4dd	-na
+(8cc	|
+8a)	z.pod
+=4yy	=4yy
+8g	czar-
+=5	=5
+8g	-ne-
+8g	-go
+4.gg	mo
+8ee	-
+=6	=6
+(8dd	-rza
+8cc)	|
+2b}	|}
+=7yy	=7yy
+{8d	{cho-
+8f#	-wa-
+4a	-la
+4cc	se
+=8	=8
+8b	go-
+8cc	-la-
+(8ee	-be
+8dd)	-
+4dd	-czka
+=9	=9
+8ee	w.tej
+8dd	no-
+4.cc	-wej
+8a	ko-
+=10	=10
+4cc	-mo-
+2b}	-rze}
+=11yy	=11yy
+{8d	{cho-
+8f#	-wa-
+4a	-la
+4cc	se
+=12	=12
+8b	go-
+8cc	-la-
+(8ee	-be
+8dd)	-
+4dd	-czka
+=13	=13
+8ee	w.tej
+8dd	no-
+4.cc	-wej
+8a	ko-
+=14	=14
+(8a	-mo
+8g)	-
+2g}	-rze.}
+==	==
+*-	*-
+!!!minrhy: 8
+!!!meter: 3/4 
+!!!cut: Wyszla byla grzeczna panna 
+!!!reg: od Garwolina (Ostrozen, Sokol)
+!!!trd: Oskar Kolberg: Dziela wszystkie vol. 1, p. 143-144
+!!!key: K0010b 08  G 3/4 
+!!!fkt: dumy i piesni
+!!!bem: watek Chowalam se golabeczka w tej nowej komorze
+!! KOLBERG
+!!!ONB: Translated from ESaC to Humdrum by Craig Stuart Sapp 2010/12/08/
